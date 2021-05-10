@@ -1,2 +1,2 @@
 # cassandraExample
-Spring boot with rest and cassandra example
+This Example demonstrate how we can connect Cassandra with Spring boot rest.
