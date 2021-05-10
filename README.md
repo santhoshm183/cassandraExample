@@ -1,5 +1,5 @@
 # cassandraExample
-overview 
+# -------------overview ---------- 
 
  Example - connect Cassandra with Spring boot rest.
 
@@ -28,7 +28,7 @@ This Example demostrate how to connect to cassandra with spring boot rest api.
 
 
 
-To test 
+# -----------To test -------------
 open browser : http://localhost:8081/course/getCourse/MA04
 
 out put : {"id":"MA04","name":"cassandra-dev-04"}
