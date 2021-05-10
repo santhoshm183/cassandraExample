@@ -20,7 +20,8 @@ This Example demostrate how to connect to cassandra with spring boot rest api.
 6. cqlsh:collage> select * from Courses;
 
  id   | name
-------+------------------
+ 
+ 
  MA04 | cassandra-dev-04
  MA03 |   cassandra-tool
  MA01 |    cassandra-dev
