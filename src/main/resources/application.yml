@@ -1,0 +1,15 @@
+server:
+  port: 8081
+  
+spring:
+  application:
+    name: Cassandra-Example
+    
+  data:
+    cassandra:
+      contact-points: localhost
+      keyspace-name: collage
+      port:  9042
+      local-datacenter: datacenter1
+      #repositories:
+       # type: auto
