@@ -25,3 +25,10 @@ This Example demostrate how to connect to cassandra with spring boot rest api.
  MA03 |   cassandra-tool
  MA01 |    cassandra-dev
  MA02 |    cassandra-sql
+
+
+
+To test 
+open browser : http://localhost:8081/course/getCourse/MA04
+
+out put : {"id":"MA04","name":"cassandra-dev-04"}
